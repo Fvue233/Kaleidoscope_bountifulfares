@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "bountifulfares:lapisberries" },
+    { "item": "bountifulfares:lapisberries" },
+    { "item": "bountifulfares:lapisberries" },
+    { "item": "bountifulfares:lapisberries" },
+    { "item": "bountifulfares:elderberries" },
+    { "item": "bountifulfares:elderberries" },
+    { "item": "bountifulfares:elderberries" },
+    { "item": "bountifulfares:elderberries" },
+    { "item": "minecraft:bowl" }
+  ],
+  "result": { "count": 1, "id": "kaleidoscope_bountiful_fares:berry_platter" }
+}

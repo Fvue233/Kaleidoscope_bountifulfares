@@ -18,17 +18,33 @@
   "tooltip.kaleidoscope_bountiful_fares.torchflower_tea.maxim": "Warm and vibrant, like carrying a flame within",
 
   "block.kaleidoscope_bountiful_fares.orange_platter": "Orange Platter",
-  "tooltip.kaleidoscope_bountiful_fares.orange_platter": "Fresh oranges arranged on a plate",
+  "tooltip.kaleidoscope_cookery.orange_platter": "Fresh oranges arranged on a plate",
   "block.kaleidoscope_bountiful_fares.plum_platter": "Plum Platter",
-  "tooltip.kaleidoscope_bountiful_fares.plum_platter": "Juicy plums arranged on a plate",
+  "tooltip.kaleidoscope_cookery.plum_platter": "Juicy plums arranged on a plate",
   "block.kaleidoscope_bountiful_fares.lemon_platter": "Lemon Platter",
-  "tooltip.kaleidoscope_bountiful_fares.lemon_platter": "Tangy lemons arranged on a plate",
+  "tooltip.kaleidoscope_cookery.lemon_platter": "Tangy lemons arranged on a plate",
   "block.kaleidoscope_bountiful_fares.golden_apple_platter": "Golden Apple Platter",
-  "tooltip.kaleidoscope_bountiful_fares.golden_apple_platter": "Shining golden apples arranged on a plate",
+  "tooltip.kaleidoscope_cookery.golden_apple_platter": "Shining golden apples arranged on a plate",
   "block.kaleidoscope_bountiful_fares.hoary_apple_platter": "Hoary Apple Platter",
-  "tooltip.kaleidoscope_bountiful_fares.hoary_apple_platter": "Rare hoary apples arranged on a plate",
+  "tooltip.kaleidoscope_cookery.hoary_apple_platter": "Rare hoary apples arranged on a plate",
   "block.kaleidoscope_bountiful_fares.spongekin_platter": "Spongekin Platter",
-  "tooltip.kaleidoscope_bountiful_fares.spongekin_platter": "Ocean delicacy, bouncy and refreshing",
+  "tooltip.kaleidoscope_cookery.spongekin_platter": "Ocean delicacy, bouncy and refreshing",
+  "block.kaleidoscope_bountiful_fares.berry_platter": "Berry Platter",
+  "tooltip.kaleidoscope_cookery.berry_platter": "Purple‑blue berries, sweet‑sour juicy",
+  "block.kaleidoscope_bountiful_fares.pear_platter": "Pear Platter",
+  "tooltip.kaleidoscope_cookery.pear_platter": "A plate of fresh pears, a sip of sweet serenity",
+  "block.kaleidoscope_bountiful_fares.passion_platter": "Passion Fruit Platter",
+  "tooltip.kaleidoscope_cookery.passion_platter": "Simple fruit, simple delight",
 
-  "item.kaleidoscope_bountiful_fares.ceramic_kitchen_knife": "Ceramic Kitchen Knife"
+
+
+  "item.kaleidoscope_bountiful_fares.ceramic_kitchen_knife": "Ceramic Kitchen Knife",
+
+
+  "effect.kaleidoscope_bountiful_fares.green_tea_buff": "Removes: Stupor \\ Hunger \\ Acidic",
+  "effect.kaleidoscope_bountiful_fares.black_tea_buff": "Removes: Weakness \\ Slowness \\ Acidic",
+  "effect.kaleidoscope_bountiful_fares.bellflower_tea_buff": "Removes: Levitation \\ Slowness \\ Acidic",
+  "effect.kaleidoscope_bountiful_fares.chamomile_tea_buff": "Removes: Confusion \\ Poison \\ Acidic",
+  "effect.kaleidoscope_bountiful_fares.honeysuckle_tea_buff": "Removes: Wither \\ Weakness \\ Acidic",
+  "effect.kaleidoscope_bountiful_fares.torchflower_tea_buff": "Removes: Darkness \\ Blindness \\ Acidic"
 }

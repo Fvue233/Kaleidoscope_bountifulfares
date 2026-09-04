@@ -112,6 +112,9 @@ dependencies {
     //bountiful-pears
     compileOnly "curse.maven:bountiful-pears-1610018:8474130"
 
+    //nomansland
+    compileOnly "curse.maven:no-mans-land-538493:8359457"
+
 
 }
 

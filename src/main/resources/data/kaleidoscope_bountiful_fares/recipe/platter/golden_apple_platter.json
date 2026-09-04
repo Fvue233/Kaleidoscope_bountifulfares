@@ -1,11 +1,4 @@
 {
-   "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "kaleidoscope_chinesefood",
-      "inverted": true
-    }
-  ],
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
