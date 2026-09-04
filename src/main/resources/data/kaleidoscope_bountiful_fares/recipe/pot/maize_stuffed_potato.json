@@ -1,0 +1,15 @@
+{
+  "type": "kaleidoscope_cookery:pot",
+  "carrier": {
+    "item": "minecraft:baked_potato"
+  },
+  "ingredients": [
+    {
+      "item": "bountifulfares:maize"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "bountifulfares:maize_stuffed_potato"
+  }
+}

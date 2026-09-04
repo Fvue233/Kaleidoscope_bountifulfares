@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bountifulfares:spongekin_slice"
+    },
+    {
+      "item": "bountifulfares:spongekin_slice"
+    },
+    {
+      "item": "bountifulfares:spongekin_slice"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "kaleidoscope_bountiful_fares:spongekin_platter"
+  }
+}

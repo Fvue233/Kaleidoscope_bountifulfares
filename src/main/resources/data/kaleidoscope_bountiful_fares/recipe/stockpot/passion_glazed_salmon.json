@@ -1,0 +1,18 @@
+{
+  "type": "kaleidoscope_cookery:stockpot",
+  "ingredients": [
+    {
+      "item": "bountifulfares:passion_fruit"
+    },
+    {
+      "item": "bountifulfares:passion_fruit"
+    },
+    {
+      "item": "minecraft:cooked_salmon"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "bountifulfares:passion_glazed_salmon"
+  }
+}

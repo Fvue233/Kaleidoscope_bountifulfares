@@ -1,0 +1,54 @@
+
+modLoader="javafml" #mandatory
+
+loaderVersion="[1,)" #mandatory
+
+license="All Rights Reserved"
+
+[[mods]] #mandatory
+
+modId="kaleidoscope_bountiful_fares" #mandatory
+
+version="1.0.1" #mandatory
+
+displayName="Kaleidoscope Bountiful Fares" #mandatory
+
+authors="Fvue233"
+
+description='''
+Add
+'''
+
+[[mixins]]
+config="kaleidoscope_bountiful_fares.mixins.json"
+
+#[[accessTransformers]]
+#file="META-INF/accesstransformer.cfg"
+
+[[dependencies.kaleidoscope_bountiful_fares]] #optional
+    modId="neoforge" #mandatory
+    type="required" #mandatory
+    versionRange="[21.1.240,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.kaleidoscope_bountiful_fares]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.kaleidoscope_bountiful_fares]]  
+    modId="kaleidoscope_cookery"                
+    type="required"                           
+    versionRange="[1.0.0,)"                   
+    ordering="AFTER"                          
+    side="BOTH"
+
+[[dependencies.kaleidoscope_bountiful_fares]]  
+    modId="bountifulfares"                
+    type="required"                           
+    versionRange="[1.0.0,)"                   
+    ordering="AFTER"                          
+    side="BOTH"

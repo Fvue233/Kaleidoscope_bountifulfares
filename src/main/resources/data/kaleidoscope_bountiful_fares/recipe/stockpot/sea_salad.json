@@ -1,0 +1,21 @@
+{
+  "type": "kaleidoscope_cookery:stockpot",
+  "ingredients": [
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "item": "bountifulfares:leek"
+    },
+    {
+      "item": "bountifulfares:citrus_essence"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "bountifulfares:sea_salad"
+  }
+}

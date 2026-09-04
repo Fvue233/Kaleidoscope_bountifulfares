@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "kaleidoscope_chinesefood"
+    }
+  ],
+  "type": "kaleidoscope_chinesefood:pickle_jar",
+  "ingredients": [
+    {
+      "item": "bountifulfares:orange"
+    },
+    {
+      "tag": "c:salt"
+    }
+  ],
+  "result": {
+    "id": "bountifulfares:citrus_essence",
+    "count": 2
+  },
+  "fermentTime": 3600
+}

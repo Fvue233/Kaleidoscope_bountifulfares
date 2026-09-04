@@ -1,0 +1,16 @@
+{
+  "type": "kaleidoscope_chinesefood:pickle_jar",
+  "ingredients": [
+    {
+      "item": "bountifulfares:plum"
+    },
+    {
+      "tag": "bountifulfares:sugar_ingredients"
+    }
+  ],
+  "result": {
+    "id": "bountifulfares:candied_plum",
+    "count": 1
+  },
+  "fermentTime": 3600
+}

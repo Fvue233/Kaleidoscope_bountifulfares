@@ -1,0 +1,22 @@
+{
+  "type": "kaleidoscope_chinesefood:pickle_jar",
+  "ingredients": [
+    {
+      "item": "bountifulfares:orange"
+    },
+    {
+      "item": "bountifulfares:orange"
+    },
+    {
+      "item": "bountifulfares:citrus_essence"
+    },
+    {
+      "item": "bountifulfares:jar"
+    }
+  ],
+  "result": {
+    "id": "bountifulfares:orange_compote_jar",
+    "count": 1
+  },
+  "fermentTime": 3600
+}

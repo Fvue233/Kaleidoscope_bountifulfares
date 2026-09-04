@@ -1,0 +1,27 @@
+{
+  "type": "kaleidoscope_cookery:pot",
+  "carrier": {
+    "item": "minecraft:bowl"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "bountifulfares:elderberries"
+    },
+    {
+      "item": "minecraft:cooked_beef"
+    },
+    {
+      "item": "bountifulfares:walnut"
+    },
+    {
+      "item": "bountifulfares:walnut"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "bountifulfares:crusted_beef"
+  }
+}

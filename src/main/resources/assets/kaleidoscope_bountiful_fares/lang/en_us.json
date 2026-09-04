@@ -1,0 +1,34 @@
+{
+  "itemGroup.kaleidoscope_bountiful_fares": "Kaleidoscope:BountifulFares",
+
+  "block.kaleidoscope_bountiful_fares.water_cup": "Water Cup",
+  "tooltip.kaleidoscope_bountiful_fares.water_cup.maxim": "A simple cup of water, pure and refreshing",
+
+  "block.kaleidoscope_bountiful_fares.green_tea": "Green Tea",
+  "tooltip.kaleidoscope_bountiful_fares.green_tea.maxim": "Fresh and refreshing, a gentle breeze in a cup",
+  "block.kaleidoscope_bountiful_fares.black_tea": "Black Tea",
+  "tooltip.kaleidoscope_bountiful_fares.black_tea.maxim": "Rich and mellow, warming the body and mind",
+  "block.kaleidoscope_bountiful_fares.chamomile_tea": "Chamomile Tea",
+  "tooltip.kaleidoscope_bountiful_fares.chamomile_tea.maxim": "Soothing floral aroma, calming the restless mind",
+  "block.kaleidoscope_bountiful_fares.honeysuckle_tea": "Honeysuckle Tea",
+  "tooltip.kaleidoscope_bountiful_fares.honeysuckle_tea.maxim": "Sweet and cool, dispelling heat and bringing comfort",
+  "block.kaleidoscope_bountiful_fares.bellflower_tea": "Bellflower Tea",
+  "tooltip.kaleidoscope_bountiful_fares.bellflower_tea.maxim": "Delicate floral scent, sharpening the senses",
+  "block.kaleidoscope_bountiful_fares.torchflower_tea": "Torchflower Tea",
+  "tooltip.kaleidoscope_bountiful_fares.torchflower_tea.maxim": "Warm and vibrant, like carrying a flame within",
+
+  "block.kaleidoscope_bountiful_fares.orange_platter": "Orange Platter",
+  "tooltip.kaleidoscope_bountiful_fares.orange_platter": "Fresh oranges arranged on a plate",
+  "block.kaleidoscope_bountiful_fares.plum_platter": "Plum Platter",
+  "tooltip.kaleidoscope_bountiful_fares.plum_platter": "Juicy plums arranged on a plate",
+  "block.kaleidoscope_bountiful_fares.lemon_platter": "Lemon Platter",
+  "tooltip.kaleidoscope_bountiful_fares.lemon_platter": "Tangy lemons arranged on a plate",
+  "block.kaleidoscope_bountiful_fares.golden_apple_platter": "Golden Apple Platter",
+  "tooltip.kaleidoscope_bountiful_fares.golden_apple_platter": "Shining golden apples arranged on a plate",
+  "block.kaleidoscope_bountiful_fares.hoary_apple_platter": "Hoary Apple Platter",
+  "tooltip.kaleidoscope_bountiful_fares.hoary_apple_platter": "Rare hoary apples arranged on a plate",
+  "block.kaleidoscope_bountiful_fares.spongekin_platter": "Spongekin Platter",
+  "tooltip.kaleidoscope_bountiful_fares.spongekin_platter": "Ocean delicacy, bouncy and refreshing",
+
+  "item.kaleidoscope_bountiful_fares.ceramic_kitchen_knife": "Ceramic Kitchen Knife"
+}

@@ -1,0 +1,34 @@
+{
+  "itemGroup.kaleidoscope_bountiful_fares": "森罗物语:丰饶食记",
+
+  "block.kaleidoscope_bountiful_fares.water_cup": "水杯",
+  "tooltip.kaleidoscope_bountiful_fares.water_cup.maxim": "一杯清水，纯净而清凉",
+
+  "block.kaleidoscope_bountiful_fares.green_tea": "绿茶",
+  "tooltip.kaleidoscope_bountiful_fares.green_tea.maxim": "清新淡雅，如春风拂面",
+  "block.kaleidoscope_bountiful_fares.black_tea": "红茶",
+  "tooltip.kaleidoscope_bountiful_fares.black_tea.maxim": "醇厚温润，暖身暖心",
+  "block.kaleidoscope_bountiful_fares.chamomile_tea": "洋甘菊花茶",
+  "tooltip.kaleidoscope_bountiful_fares.chamomile_tea.maxim": "安神宁心，花香舒缓烦躁",
+  "block.kaleidoscope_bountiful_fares.honeysuckle_tea": "金银花茶",
+  "tooltip.kaleidoscope_bountiful_fares.honeysuckle_tea.maxim": "甘甜清凉，清热解毒",
+  "block.kaleidoscope_bountiful_fares.bellflower_tea": "风铃草花茶",
+  "tooltip.kaleidoscope_bountiful_fares.bellflower_tea.maxim": "花香清幽，凝神静气",
+  "block.kaleidoscope_bountiful_fares.torchflower_tea": "火炬花茶",
+  "tooltip.kaleidoscope_bountiful_fares.torchflower_tea.maxim": "热情洋溢，如携烈焰于心",
+
+  "block.kaleidoscope_bountiful_fares.orange_platter": "橙子拼盘",
+  "tooltip.kaleidoscope_bountiful_fares.orange_platter": "鲜橙切片，摆盘精致",
+  "block.kaleidoscope_bountiful_fares.plum_platter": "李子拼盘",
+  "tooltip.kaleidoscope_bountiful_fares.plum_platter": "多汁李子，诱人可口",
+  "block.kaleidoscope_bountiful_fares.lemon_platter": "柠檬拼盘",
+  "tooltip.kaleidoscope_bountiful_fares.lemon_platter": "酸甜柠檬，清新爽口",
+  "block.kaleidoscope_bountiful_fares.golden_apple_platter": "金苹果拼盘",
+  "tooltip.kaleidoscope_bountiful_fares.golden_apple_platter": "闪耀金苹果，珍贵非凡",
+  "block.kaleidoscope_bountiful_fares.hoary_apple_platter": "朽老苹果拼盘",
+  "tooltip.kaleidoscope_bountiful_fares.hoary_apple_platter": "珍稀朽老苹果，别具风味",
+  "block.kaleidoscope_bountiful_fares.spongekin_platter": "海绵瓜拼盘",
+  "tooltip.kaleidoscope_bountiful_fares.spongekin_platter": "海洋珍馐，Q弹爽口",
+
+  "item.kaleidoscope_bountiful_fares.ceramic_kitchen_knife": "陶瓷厨刀"
+}

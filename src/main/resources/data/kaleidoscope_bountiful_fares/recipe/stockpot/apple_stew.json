@@ -1,0 +1,21 @@
+{
+  "type": "kaleidoscope_cookery:stockpot",
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "bountifulfares:elderberries"
+    },
+    {
+      "item": "bountifulfares:elderberries"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "bountifulfares:apple_stew"
+  }
+}

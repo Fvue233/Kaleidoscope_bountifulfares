@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "bountifulfares:ceramic_tile"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "AA",
+    "AB",
+    "  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "kaleidoscope_bountiful_fares:ceramic_kitchen_knife"
+  }
+}

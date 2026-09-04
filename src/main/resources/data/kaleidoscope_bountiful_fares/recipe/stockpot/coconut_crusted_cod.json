@@ -1,0 +1,18 @@
+{
+  "type": "kaleidoscope_cookery:stockpot",
+  "ingredients": [
+    {
+      "item": "bountifulfares:coconut_half"
+    },
+    {
+      "item": "bountifulfares:coconut_half"
+    },
+    {
+      "item": "minecraft:cooked_cod"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "bountifulfares:coconut_crusted_cod"
+  }
+}

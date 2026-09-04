@@ -1,0 +1,19 @@
+{
+   "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "kaleidoscope_chinesefood",
+      "inverted": true
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:golden_apple" },
+    { "item": "minecraft:golden_apple" },
+    { "item": "minecraft:golden_apple" },
+    { "item": "minecraft:golden_apple" },
+    { "item": "minecraft:bowl" }
+  ],
+  "result": { "count": 1, "id": "kaleidoscope_bountiful_fares:golden_apple_platter" }
+}

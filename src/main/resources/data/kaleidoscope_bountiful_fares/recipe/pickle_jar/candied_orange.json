@@ -1,0 +1,16 @@
+{
+  "type": "kaleidoscope_chinesefood:pickle_jar",
+  "ingredients": [
+    {
+      "item": "bountifulfares:orange"
+    },
+    {
+      "tag": "bountifulfares:sugar_ingredients"
+    }
+  ],
+  "result": {
+    "id": "bountifulfares:candied_orange",
+    "count": 4
+  },
+  "fermentTime": 3600
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "bountifulfares:plum" },
+    { "item": "bountifulfares:plum" },
+    { "item": "bountifulfares:plum" },
+    { "item": "bountifulfares:plum" },
+    { "item": "minecraft:bowl" }
+  ],
+  "result": { "count": 1, "id": "kaleidoscope_bountiful_fares:plum_platter" }
+}

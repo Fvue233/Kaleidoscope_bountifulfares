@@ -1,0 +1,18 @@
+{
+  "type": "kaleidoscope_cookery:stockpot",
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_porkchop"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "bountifulfares:maize"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "bountifulfares:bountiful_stew"
+  }
+}
