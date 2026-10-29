@@ -38,6 +38,13 @@
 
   "item.kaleidoscope_bountiful_fares.ceramic_kitchen_knife": "陶瓷厨刀",
 
+  "item.kaleidoscope_bountiful_fares.green_tea_bag": "绿茶茶包",
+  "item.kaleidoscope_bountiful_fares.black_tea_bag": "红茶茶包",
+  "item.kaleidoscope_bountiful_fares.chamomile_tea_bag": "洋甘菊茶包",
+  "item.kaleidoscope_bountiful_fares.honeysuckle_tea_bag": "金银花茶包",
+  "item.kaleidoscope_bountiful_fares.bellflower_tea_bag": "风铃草花茶包",
+  "item.kaleidoscope_bountiful_fares.torchflower_tea_bag": "火炬花茶包",
+
 
   "effect.kaleidoscope_bountiful_fares.green_tea_buff": "移除：§c麻痹 \\ 饥饿 \\ 酸性",
   "effect.kaleidoscope_bountiful_fares.black_tea_buff": "移除：§c虚弱 \\ 缓慢 \\ 酸性",

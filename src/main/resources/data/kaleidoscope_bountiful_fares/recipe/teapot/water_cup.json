@@ -3,6 +3,7 @@
   "ingredient": {
     "item": "minecraft:snowball"
   },
+  "ingredient_count": 1,
   "result": {
     "count": 1,
     "id": "kaleidoscope_bountiful_fares:water_cup"

@@ -1,8 +1,9 @@
 {
   "type": "kaleidoscope_cookery:teapot",
   "ingredient": {
-    "item": "bountifulfares:violet_bellflower"
+    "item": "kaleidoscope_bountiful_fares:bellflower_tea_bag"
   },
+  "ingredient_count": 1,
   "result": {
     "count": 1,
     "id": "kaleidoscope_bountiful_fares:bellflower_tea"

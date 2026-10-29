@@ -40,6 +40,13 @@
 
   "item.kaleidoscope_bountiful_fares.ceramic_kitchen_knife": "Ceramic Kitchen Knife",
 
+  "item.kaleidoscope_bountiful_fares.green_tea_bag": "Green Tea Bag",
+  "item.kaleidoscope_bountiful_fares.black_tea_bag": "Black Tea Bag",
+  "item.kaleidoscope_bountiful_fares.chamomile_tea_bag": "Chamomile Tea Bag",
+  "item.kaleidoscope_bountiful_fares.honeysuckle_tea_bag": "Honeysuckle Tea Bag",
+  "item.kaleidoscope_bountiful_fares.bellflower_tea_bag": "Bellflower Tea Bag",
+  "item.kaleidoscope_bountiful_fares.torchflower_tea_bag": "Torchflower Tea Bag",
+
 
   "effect.kaleidoscope_bountiful_fares.green_tea_buff": "Removes: Stupor \\ Hunger \\ Acidic",
   "effect.kaleidoscope_bountiful_fares.black_tea_buff": "Removes: Weakness \\ Slowness \\ Acidic",

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "bountifulfares:dried_tea_leaves"
+    },
+    "B": {
+      "item": "bountifulfares:chamomile_flowers"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "kaleidoscope_bountiful_fares:chamomile_tea_bag"
+  }
+}

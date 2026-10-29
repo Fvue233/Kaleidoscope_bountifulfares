@@ -35,6 +35,13 @@ public class KBFCreativeTabs {
                         output.accept(TeacupRegistry.getItem(KBFTeacups.BELLFLOWER_TEA));
                         output.accept(TeacupRegistry.getItem(KBFTeacups.TORCHFLOWER_TEA));
 
+                        output.accept(KBFItems.GREEN_TEA_BAG.get());
+                        output.accept(KBFItems.BLACK_TEA_BAG.get());
+                        output.accept(KBFItems.CHAMOMILE_TEA_BAG.get());
+                        output.accept(KBFItems.HONEYSUCKLE_TEA_BAG.get());
+                        output.accept(KBFItems.BELLFLOWER_TEA_BAG.get());
+                        output.accept(KBFItems.TORCHFLOWER_TEA_BAG.get());
+
                         output.accept(PlateRegistry.getItem(KBFPlate.HOARY_APPLE_PLATTER));
                         output.accept(PlateRegistry.getItem(KBFPlate.ORANGE_PLATTER));
                         output.accept(PlateRegistry.getItem(KBFPlate.PLUM_PLATTER));
